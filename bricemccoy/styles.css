@@ -33,6 +33,7 @@ p{
 .nb-brand-color{
   color:#FA8072;
   font-weight: bold;
+  font-size: 1.5em;
 }
 
 .tagline{
@@ -41,10 +42,6 @@ p{
 
 .nav-item{
   text-align: right;
-}
-
-.fas{
-  margin-right: 0.25em;
 }
 
 .nb-color{
@@ -56,3 +53,7 @@ p{
 .nb-color:hover{
   color: #0F52BA;
 }
+
+ i{
+   margin-left: 0.5em;
+ }
